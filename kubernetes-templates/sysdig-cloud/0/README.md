@@ -1,6 +1,6 @@
 Installing Sysdig in k8s with Rancher<br>
 
-The following kernel headers are necessary before deploying the agent using the rancher catalog.<br>
+The following kernel headers are necessary before deploying the agent using the Rancher catalog.<br>
 
 <b>DOCKER</b><br>
 $ sudo ros service enable kernel-headers<br>
