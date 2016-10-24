@@ -1,6 +1,6 @@
 .catalog:
   name: "Sysdig Cloud"
-  version: "v0"
+  version: "0.1"
   description: "Container-Native Application and Infrastructure Monitoring"
   questions:
     - variable: "SDC_ACCESS_KEY"
