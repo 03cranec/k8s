@@ -1,4 +1,4 @@
-Intalling Sysdig in k8s with Rancher
+Installing Sysdig in k8s with Rancher
 
 The follwing kernel headera are necessary before deploying the agent using the rancher catalog.
 
