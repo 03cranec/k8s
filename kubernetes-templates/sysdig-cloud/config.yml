@@ -1,5 +1,5 @@
 name: Sysdig Cloud
 description: |
   Container-Native Application and Infrastructure Monitoring
-version: v0
+version: 0.1
 category: Monitoring
