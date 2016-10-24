@@ -39,8 +39,8 @@ spec:
         securityContext:
          privileged: true
         env:
-        - name: ACCESS_KEY                                  #REQUIRED - replace with your Sysdig Cloud access key
-          value: 8312341g-5678-abcd-4a2b2c-33bcsd655
+        - name: {SDC_ACCESS_KEY}                            #REQUIRED - replace with your Sysdig Cloud access key
+          value:                                            # 8312341g-5678-abcd-4a2b2c-33bcsd655
 #        - name: TAGS                                       #OPTIONAL
 #          value: linux:ubuntu,dept:dev,local:nyc 
 #        - name: COLLECTOR                                  #OPTIONAL - on-prem install only
